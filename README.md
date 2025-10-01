@@ -12,7 +12,7 @@ Installation
 
 Clone the repository:
 
-git clone <your-repository-url>
+git clone https://github.com/Biko-KHM/clinic-booking-api.git
 cd clinic-booking-api
 
 
@@ -157,9 +157,3 @@ Body (JSON):
 
 Example using curl:
 curl -X POST http://localhost:3000/patients -H "Content-Type: application/json" -d '{"first_name":"Biko","last_name":"keno","email":"biko.keno@example.com","phone":"1234567890","date_of_birth":"1990-01-01"}'
-
-Submission
-
-Repository URL: <your-repository-url>
-Deadline: Wednesday, 25th September 2025
-Submitted by: Bikila Keneni
