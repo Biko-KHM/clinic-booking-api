@@ -1,4 +1,5 @@
-Clinic Booking CRUD API
+Clinic Booking CRUD API-
+
 A CRUD application built with Node.js (Express) and MySQL for managing Patients, Doctors, and Appointments in a Clinic Booking System. Developed by Bikila Keneni as part of a Week 8 Assignment to demonstrate skills in database design and API development.
 Prerequisites
 
