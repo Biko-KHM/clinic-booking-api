@@ -21,7 +21,7 @@ const pool = mysql.createPool(dbConfig);
 
 // Root route for testing
 app.get("/", (req, res) => {
-  res.json({ message: "Clinic Booking API by Bikila Keneni is running!" });
+  res.json({ message: "Clinic Booking API is running!" });
 });
 
 // CRUD Operations for Patients
